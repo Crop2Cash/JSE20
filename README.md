@@ -49,20 +49,20 @@ As a Junior Software Engineer, you will use your expertise in engineering, softw
 - Microsoft Azure, Google Cloud, Heroku
 
 ## Work Schedule
-### Full-time
+Full-time
 
 ## Location
-### Crop2Cash HQ, Ibadan, Nigeria 
+Crop2Cash HQ, Ibadan, Nigeria 
 [View on Google Maps](https://g.page/crop2cash?share)
 
 ## Relocation Support
-### **Yes**
+**Yes**
 
 ## Salary
-### Competitive
+Competitive
 
 ## How to Apply
-### Visit [c2c.ng/jse20](https://c2c.ng/jse20) to apply
+Visit [c2c.ng/jse20](http://www.c2c.ng/jse20) to apply
 
 
 ### Have any questions?
